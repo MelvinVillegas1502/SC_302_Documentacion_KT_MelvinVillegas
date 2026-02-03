@@ -1,4 +1,4 @@
-# SC_302_Documentacion_KT_MelvinVillegas
+# SC\_302\_Documentacion\_KT\_MelvinVillegas
 
 
 
@@ -8,4 +8,19 @@
 
 
 
-Esta es mi primer practica con GitHub
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Esta es mi primer practica de GitHub. MelvinVillegasKT
+
